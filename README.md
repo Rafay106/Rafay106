@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Muhammad Rafay Siddiqui
-- :brain: I know C/C++, Java and Web-development using Django Framework.
+- :brain: I know Web-development using Django Framework and MERN Stack.
 - 👀 I’m interested in Software Development and Web-Development opportunities.
-- 🌱 I’m currently persuing MCA (Master's of Computer Applications) and learing MERN stack.
+- 🌱 I’m currently persuing MCA (Master's of Computer Applications).
 <!-- 💞️ I’m looking to collaborate on ... -->
 - 📫 Email - rafay.siddiqui106@gmail.com
 
