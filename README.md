@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @Muhammad Rafay Siddiqui
-- :brain: I know Web-development using Django Framework and MERN Stack.
-- 👀 I’m interested in Software Development and Web-Development opportunities.
-- 🌱 I’m currently persuing MCA (Master's of Computer Applications).
+- :brain: I have experience in developing microservices, webservers, TCP/UDP servers using GoLang, NodeJS and Python.
+- 👀 I’m interested in SDE, System Design, System Security and AI.
+- 🌱 I’m employed at a company as SDE-1.
 <!-- 💞️ I’m looking to collaborate on ... -->
-- 📫 Email - rafay.siddiqui106@gmail.com
+- 📫 Email - rafay.work106@gmail.com
 
 <!---
 Rafay106/Rafay106 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
